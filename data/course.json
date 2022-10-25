@@ -1,42 +1,42 @@
 [
   {
-    "id": "01",
+    "id": "1",
+    "name": "All Courses"
+  },
+  {
+    "id": "2",
     "name": "CSS"
   },
   {
-    "id": "02",
+    "id": "3",
     "name": "Django"
   },
   {
-    "id": "03",
+    "id": "4",
     "name": "Github"
   },
   {
-    "id": "04",
+    "id": "5",
     "name": "HTML5"
   },
   {
-    "id": "05",
+    "id": "6",
     "name": "Javascript"
   },
   {
-    "id": "06",
+    "id": "7",
     "name": "MongoDB"
   },
   {
-    "id": "07",
+    "id": "8",
     "name": "Node JS"
   },
   {
-    "id": "08",
+    "id": "9",
     "name": "Python"
   },
   {
-    "id": "09",
-    "name": "React JS"
-  },
-  {
     "id": "10",
-    "name": "All Courses"
+    "name": "React JS"
   }
 ]
