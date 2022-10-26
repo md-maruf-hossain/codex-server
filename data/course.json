@@ -1,42 +1,52 @@
 [
   {
     "id": "1",
-    "name": "All Courses"
+    "name": "CSS",
+    "thumbnail": "https://live.staticflickr.com/65535/52455024421_fe03ccbd37.jpg"
   },
   {
     "id": "2",
-    "name": "CSS"
+    "name": "Django",
+    "thumbnail": "https://live.staticflickr.com/65535/52455549953_dc65a0c0e5_m.jpg"
   },
   {
     "id": "3",
-    "name": "Django"
+    "name": "Github",
+    "thumbnail": "https://live.staticflickr.com/65535/52455549948_c883139314_m.jpg"
   },
   {
     "id": "4",
-    "name": "Github"
+    "name": "HTML5",
+    "thumbnail": "https://live.staticflickr.com/65535/52455474680_f4f1b581c2_m.jpg"
   },
   {
     "id": "5",
-    "name": "HTML5"
+    "name": "Javascript",
+    "thumbnail": "https://live.staticflickr.com/65535/52455474710_f8389d5ae2_m.jpg"
   },
   {
     "id": "6",
-    "name": "Javascript"
+    "name": "MongoDB",
+    "thumbnail": "https://live.staticflickr.com/65535/52455292909_03b6dfc69f_m.jpg"
   },
   {
     "id": "7",
-    "name": "MongoDB"
+    "name": "Node JS",
+    "thumbnail": "https://live.staticflickr.com/65535/52455474725_5b53800dee_m.jpg"
   },
   {
     "id": "8",
-    "name": "Node JS"
+    "name": "Python",
+    "thumbnail": "https://live.staticflickr.com/65535/52454502292_92d9ece3ff_m.jpg"
   },
   {
     "id": "9",
-    "name": "Python"
+    "name": "React JS",
+    "thumbnail": "https://live.staticflickr.com/65535/52454502322_cb026a0d79_m.jpg"
   },
   {
     "id": "10",
-    "name": "React JS"
+    "name": "All Courses",
+    "thumbnail": "https://live.staticflickr.com/65535/52455574153_bbf0c13a23_m.jpg"
   }
 ]

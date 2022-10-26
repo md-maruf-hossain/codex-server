@@ -1,7 +1,7 @@
 [
   {
     "_id": "0282e0e58a5c404fbd15261f11c2ab1a",
-    "category_id": "01",
+    "category_id": "1",
     "rating": { "number": 4.5, "badge": "Excellent" },
     "total_view": 488,
     "price": 50,
@@ -16,7 +16,7 @@
   },
   {
     "_id": "0282e0e58a5c404fbd15261f11c2ab1b",
-    "category_id": "01",
+    "category_id": "1",
     "rating": { "number": 4.8, "badge": "Excellent" },
     "total_view": 600,
     "price": 100,
@@ -31,7 +31,7 @@
   },
   {
     "_id": "0282e0e58a5c404fbd15261f11c2ab1c",
-    "category_id": "01",
+    "category_id": "1",
     "rating": { "number": 4.3, "badge": "Excellent" },
     "total_view": 500,
     "price": 65,
@@ -46,7 +46,7 @@
   },
   {
     "_id": "0282e0e58a5c404fbd15261f11c2ab2a",
-    "category_id": "02",
+    "category_id": "2",
     "rating": { "number": 4.5, "badge": "Excellent" },
     "total_view": 500,
     "price": 50,
@@ -61,7 +61,7 @@
   },
   {
     "_id": "0282e0e58a5c404fbd15261f11c2ab2b",
-    "category_id": "02",
+    "category_id": "2",
     "rating": { "number": 4.5, "badge": "Excellent" },
     "total_view": 500,
     "price": 120,
@@ -76,7 +76,7 @@
   },
   {
     "_id": "0282e0e58a5c404fbd15261f11c2ab2c",
-    "category_id": "02",
+    "category_id": "2",
     "rating": { "number": 4.5, "badge": "Excellent" },
     "total_view": 500,
     "price": 80,
@@ -91,7 +91,7 @@
   },
   {
     "_id": "0282e0e58a5c404fbd15261f11c2ab3a",
-    "category_id": "03",
+    "category_id": "3",
     "rating": { "number": 4.5, "badge": "Excellent" },
     "total_view": 500,
     "price": 60,
@@ -106,7 +106,7 @@
   },
   {
     "_id": "0282e0e58a5c404fbd15261f11c2ab3b",
-    "category_id": "03",
+    "category_id": "3",
     "rating": { "number": 4.5, "badge": "Excellent" },
     "total_view": 500,
     "price": 40,
@@ -121,7 +121,7 @@
   },
   {
     "_id": "0282e0e58a5c404fbd15261f11c2ab3c",
-    "category_id": "03",
+    "category_id": "3",
     "rating": { "number": 4.5, "badge": "Excellent" },
     "total_view": 500,
     "price": 35,
@@ -136,7 +136,7 @@
   },
   {
     "_id": "0282e0e58a5c404fbd15261f11c2ab4a",
-    "category_id": "04",
+    "category_id": "4",
     "rating": { "number": 4.5, "badge": "Excellent" },
     "total_view": 500,
     "price": 55,
@@ -151,7 +151,7 @@
   },
   {
     "_id": "0282e0e58a5c404fbd15261f11c2ab4b",
-    "category_id": "04",
+    "category_id": "4",
     "rating": { "number": 4.5, "badge": "Excellent" },
     "total_view": 500,
     "price": 30,
@@ -166,7 +166,7 @@
   },
   {
     "_id": "0282e0e58a5c404fbd15261f11c2ab4c",
-    "category_id": "04",
+    "category_id": "4",
     "rating": { "number": 4.5, "badge": "Excellent" },
     "total_view": 500,
     "price": 80,
@@ -181,7 +181,7 @@
   },
   {
     "_id": "0282e0e58a5c404fbd15261f11c2ab5a",
-    "category_id": "05",
+    "category_id": "5",
     "rating": { "number": 4.5, "badge": "Excellent" },
     "total_view": 500,
     "price": 85,
@@ -196,7 +196,7 @@
   },
   {
     "_id": "0282e0e58a5c404fbd15261f11c2ab5b",
-    "category_id": "05",
+    "category_id": "5",
     "rating": { "number": 4.5, "badge": "Excellent" },
     "total_view": 500,
     "price": 90,
@@ -211,7 +211,7 @@
   },
   {
     "_id": "0282e0e58a5c404fbd15261f11c2ab5c",
-    "category_id": "05",
+    "category_id": "5",
     "rating": { "number": 4.5, "badge": "Excellent" },
     "total_view": 500,
     "price": 80,
@@ -226,7 +226,7 @@
   },
   {
     "_id": "0282e0e58a5c404fbd15261f11c2ab6a",
-    "category_id": "06",
+    "category_id": "6",
     "rating": { "number": 4.8, "badge": "Excellent" },
     "total_view": 5050,
     "price": 120,
@@ -241,7 +241,7 @@
   },
   {
     "_id": "0282e0e58a5c404fbd15261f11c2ab6b",
-    "category_id": "06",
+    "category_id": "6",
     "rating": { "number": 4.5, "badge": "Excellent" },
     "total_view": 500,
     "price": 90,
@@ -256,7 +256,7 @@
   },
   {
     "_id": "0282e0e58a5c404fbd15261f11c2ab6c",
-    "category_id": "06",
+    "category_id": "6",
     "rating": { "number": 4.5, "badge": "Excellent" },
     "total_view": 500,
     "price": 45,
@@ -271,7 +271,7 @@
   },
   {
     "_id": "0282e0e58a5c404fbd15261f11c2ab7a",
-    "category_id": "07",
+    "category_id": "7",
     "rating": { "number": 4.5, "badge": "Excellent" },
     "total_view": 500,
     "price": 70,
@@ -286,7 +286,7 @@
   },
   {
     "_id": "0282e0e58a5c404fbd15261f11c2ab7b",
-    "category_id": "07",
+    "category_id": "7",
     "rating": { "number": 4.5, "badge": "Excellent" },
     "total_view": 500,
     "price": 60,
@@ -301,7 +301,7 @@
   },
   {
     "_id": "0282e0e58a5c404fbd15261f11c2ab7c",
-    "category_id": "07",
+    "category_id": "7",
     "rating": { "number": 4.5, "badge": "Excellent" },
     "total_view": 500,
     "price": 80,
@@ -316,7 +316,7 @@
   },
   {
     "_id": "0282e0e58a5c404fbd15261f11c2ab8a",
-    "category_id": "08",
+    "category_id": "8",
     "rating": { "number": 4.5, "badge": "Excellent" },
     "total_view": 5000,
     "price": 35,
@@ -331,7 +331,7 @@
   },
   {
     "_id": "0282e0e58a5c404fbd15261f11c2ab8b",
-    "category_id": "08",
+    "category_id": "8",
     "rating": { "number": 4.5, "badge": "Excellent" },
     "total_view": 4000,
     "price": 50,
@@ -346,7 +346,7 @@
   },
   {
     "_id": "0282e0e58a5c404fbd15261f11c2ab8c",
-    "category_id": "08",
+    "category_id": "8",
     "rating": { "number": 4.5, "badge": "Excellent" },
     "total_view": 500,
     "price": 80,
@@ -361,7 +361,7 @@
   },
   {
     "_id": "0282e0e58a5c404fbd15261f11c2ab9a",
-    "category_id": "09",
+    "category_id": "9",
     "rating": { "number": 4.5, "badge": "Excellent" },
     "total_view": 500,
     "price": 55,
@@ -376,7 +376,7 @@
   },
   {
     "_id": "0282e0e58a5c404fbd15261f11c2ab9b",
-    "category_id": "09",
+    "category_id": "9",
     "rating": { "number": 4.5, "badge": "Excellent" },
     "total_view": 500,
     "price": 60,
@@ -391,7 +391,7 @@
   },
   {
     "_id": "0282e0e58a5c404fbd15261f11c2ab9c",
-    "category_id": "09",
+    "category_id": "9",
     "rating": { "number": 4.5, "badge": "Excellent" },
     "total_view": 500,
     "price": 70,
